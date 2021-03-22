@@ -1,5 +1,9 @@
-# Hinweise zur Nutzung
+# Informationen
+* Dunkler Seitenmodus
+* Reduzierte Werbung und aufdringliche Inhalte
+* Referenziert auf: https://www.ebay-kleinanzeigen.de/
 
+# Hinweise zur Nutzung
 Für ein optimales Seitenerlebnis deaktivieren Sie Ihren AdBlocker (nur für Ebay Kleinanzeigen). 
 Andernfalls werden Sich Werbungen hervordrängen, die die hide_advertising.css nicht ausblenden kann.
 
