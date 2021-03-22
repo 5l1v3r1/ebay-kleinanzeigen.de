@@ -1,0 +1,132 @@
+/* Page: General */
+body {
+    background-color: #232323;
+    overflow-x: hidden;
+}
+a, h1, h2, h3, h4, h5, h6, strong, .splitheader--title *, .text-light, .text-small, .headline-small, .iconlist-text, .textdropdown, .formgroup-label, .selectable-list, .user-profile-info, .userbadges-details *, .badge-details-name, .aditem-addon {
+    color: white !important;
+}
+a#user-logout {
+    color: #de5858 !important;
+}
+.contentbox, .contentbox-unpadded, .contentbox-info, .contentbox-landingpage {
+    background-color: #3e3e3e !important;
+    color: white;
+}
+#site-signin {
+    top: 6px !important;
+}
+/* Suche */
+.ad-listitem.lazyload-item > .aditem, .aditem-main--middle--description, .aditem-main--top--left, .aditem-main--top--right {
+    color: white !important;
+    background: #222 !Important;
+}
+/* Startseite */
+#home-ctgrs {
+    background: #3e3e3e !important;
+}
+.itemtile, .itemtile-fullpic {
+    color: white;
+    background: #3e3e3e !important;
+}
+/* Navigation */
+.notification-center .bell-container a {
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAHdElNRQflAwMPLRjnUnArAAAAvklEQVQoz6WRwQoBYRSFv99CI6VBYS9PQKZmwVtY2HgKG8nC09iNeQRSrOUNpCbEymZSx8LM1BAld3W65+vUPRd+G/XU/2R1VVZOC62UU1ndV7ummRzNNdBAvtqaqZIGxmrKUxZAWXlqafR0MhFR587ahAAmZENIIw0MsTklgUeKDFOAOWMTJEBAwZzTCeCyTfQON5YRoCoFc4iXZo8dX2EiYEKHC0VuQJ4rJZZm+l6WI1++2t+qtmT9+J3/5wHK9UYd7wE2YgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMS0wMy0wM1QxNTo0NToyNCswMDowMPGQ+aQAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjEtMDMtMDNUMTU6NDU6MjQrMDA6MDCAzUEYAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAABJRU5ErkJggg==) center right/24px 24px no-repeat;
+}
+.browsebox-selected-itembox {
+    background: transparent !important;
+}
+#site-header, #site-header, .dropdown-list, .dropdown-list.is-active, li.selectbox-option, li.selectbox-option {
+    background: #3e3e3e !important;
+    color: white !important;
+}
+.logo > a > img {
+    height: 20px;
+}
+.a-green.bar {
+    background-color: #505050;
+}
+.dropdown-list li {
+    color: white;
+}
+.mainnav-item:hover, .mainnav-item.on {
+    color: white;
+    background-color: #5f5f5f;
+}
+.mainnav-sub {
+    background: #3e3e3e !important;
+    color: white !important;
+    border: none;
+}
+/* Breadcrumbs */
+.breadcrump-link:not(:last-child) {
+    background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAHdElNRQflAwMPFjYHNpLcAAAASElEQVQoz2NgoDf4n/hfEZ800/87/x/+V8KnRPb/nf+P/ivjV3KXkBL5//f/P/wvAeExke4PObxWEJJm+n/3/0P8IYE/oGgDABOiLp06o2BPAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIxLTAzLTAzVDE1OjIyOjU0KzAwOjAw8TwhhwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMS0wMy0wM1QxNToyMjo1NCswMDowMIBhmTsAAAAZdEVYdFNvZnR3YXJlAHd3dy5pbmtzY2FwZS5vcmeb7jwaAAAAAElFTkSuQmCC') no-repeat right center !important;
+}
+/* Profil */
+.userprofile {
+    background-color: #3e3e3e !important;
+    color: white;
+}
+/* Anzeige */
+#viewad-main .contentbox, #viewad-main .splitlinebox {
+    background-color: #3e3e3e !important;
+    color: white;
+}
+.simpletag, .tag-small {
+    background-color: gray;
+    color: white;
+}
+/* Anzeigenliste unterhalb Anzeige */
+ul.ad-list > li > article {
+    color: white !important;
+    background-color: #3e3e3e !important;
+    border-top: none !important;
+}
+
+input {
+    color: black !important;
+}
+.Messagebox, .Messagebox * {
+    color: #212020 !important;
+}
+.Button--Body > span, .Button--secondary > span {
+    color: white !Important;
+}
+.actionlist-body, .aditem-footer {
+    background: #171515 !important;
+}
+.mfp-popup, .mfp-popup-medium, .mfp-popup-small, .mfp-popup-large, .mfp-popup-huge, .mfp-popup-badges, .mfp-popup-fullscreen {
+    background: #151515;
+}
+.Messagebox, .Messagebox * {
+    color: white !important;
+    background: #151515 !important;
+}
+.Message--Text {
+    background: #484848 !important;
+}
+
+/* Buttons */
+button, .button, .button-tertiary, .button-secondary, .Button-primary, .Button-secondary, .Button-primary *, .Button-secondary *  {
+    border: none !important;
+    background: #791919 !important;
+    color: white !important;
+}
+button:hover, .button:hover, .button-tertiary:hover, .button-secondary:hover, .Button-primary:hover, .Button-secondary:hover, .Button-primary:hover *, .Button-secondary:hover *  {
+    border: none !important;
+    background: #b54444 !important;
+    color: white !important;
+}
+button > i, .button > i, .button-tertiary > i, .Button--Icon {
+    display: none;
+}
+.button-ghost:hover {
+    background: transparent;
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+
+.manageadbox {
+        color: white !important;
+    background: #151515 !important;
+}
