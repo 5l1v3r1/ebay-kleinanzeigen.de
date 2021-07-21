@@ -17,10 +17,15 @@ a#user-logout {
     top: 6px !important;
 }
 /* Suche */
-.ad-listitem.lazyload-item > .aditem, .aditem-main--middle--description, .aditem-main--top--left, .aditem-main--top--right {
+.ad-listitem.lazyload-item > .aditem, .aditem-main--middle--description, .aditem-main--top--left, .aditem-main--top--right, .savedsearch-listitem, .followuser-listitem, .sectionbox, .bubblebox, .notification-footer  {
     color: white !important;
     background: #222 !Important;
 }
+
+.bubblebox::after {
+    border: none;
+}
+
 /* Startseite */
 #home-ctgrs {
     background: #3e3e3e !important;
@@ -129,4 +134,27 @@ button > i, .button > i, .button-tertiary > i, .Button--Icon {
 .manageadbox {
         color: white !important;
     background: #151515 !important;
+}
+
+.cardbox {
+    background: #1b1b1b !important;   
+}
+
+/* Removes Useless areas */
+header.splitheader, .j-viewad-contact-legal, #home-tsr-srvy {
+    display: none;
+}
+/* Removes Featured Sections */
+#home-gallery, #home-topcitybx, #store-gallery {
+    display: none;
+}
+/* Removes Advertising */
+#site-content, #site-footer {
+    top: 0 !important;
+}
+.site-base--right-banner--full, .site-base--left-banner {
+    visibility: hidden;
+}
+div[data-liberty-position-name], div[data-liberty-position-name="my_messages-top-banner"], #my-msgbox-atf, .j-liberty-wrapper, .banner, #aax_liberty-my_messages-top-banner, #aax_liberty-my_messages-sky-atf-left {
+    display: none !important;
 }
